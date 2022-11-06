@@ -1,0 +1,30 @@
+.taskPageNavWrapper {
+  background: #2B2C37;
+  color: #fff;
+  width: 80vw;
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 30px;
+  border-bottom: 1px solid rgb(71, 66, 66);
+}
+
+h1 {
+  font-size: 1.6rem;
+  letter-spacing: 0.3px;
+  font-weight: 600;
+}
+
+button {
+  background: rgb(101, 89, 192);
+  color: #fff;
+  border: none;
+  font-size: 1.1rem;
+  font-weight: 500;
+  letter-spacing: 0.8px;
+  cursor: pointer;
+  padding: 10px 20px;
+  border-radius: 30px;
+  margin: 0 10px;
+}

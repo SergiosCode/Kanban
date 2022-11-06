@@ -2,12 +2,14 @@ nav {
   display: flex-column;
   justify-content: space-between;
   align-items: center;
-  background: #222;
+  background: #2b2c37;
+
+  /* background: #20212c; */
   color: #fff;
   height: 100vh;
   width: 300px;
   padding: 0 30px;
-  border: 1px solid rgb(255, 0, 0);
+  border-right: 1px solid rgb(71, 66, 66);
 }
 
 .logo {
