@@ -18,7 +18,7 @@ const Navbar = () => {
       <h3>
         <IconBoard className="iconboard" /> Roadmap
       </h3>
-      <h3><IconBoard className="iconboard" />+ Create New Board</h3>
+      <h3 className="newboard"><IconBoard className="iconboard" />+ Create New Board</h3>
     </nav>
   );
 };
