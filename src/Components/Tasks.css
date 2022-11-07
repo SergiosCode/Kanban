@@ -1,0 +1,15 @@
+.tasksWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 89.6vh;
+    color: #828FA3;
+    background-color: #20212C;
+}
+
+.tasksWrapper h3 {
+    margin-bottom: 50px;
+    font-size: 1.3rem;
+}
