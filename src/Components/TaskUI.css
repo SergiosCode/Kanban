@@ -1,0 +1,26 @@
+.taskUI-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 20px;
+    width: 300px;
+    height: 100px;
+    border-radius: 7px;
+    background-color: #2b2c37;
+}
+
+.taskUI-wrapper h3 {
+    color: rgb(250, 250, 250);
+    margin: 10px 0;
+    font-size: 1.1rem;
+    font-weight: 800;
+    letter-spacing: 0.2px;
+}
+
+.taskUI-wrapper h4 {
+    color: #858697;
+    margin: 10px 0;
+    font-size: 0.8rem;
+    font-weight: 800;
+    letter-spacing: 0.2px;
+}
