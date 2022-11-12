@@ -1,0 +1,22 @@
+.column-wrapper {
+  border: 1px solid red;
+  padding: 10px 10px;
+}
+
+.column-header h4 {
+  color: rgb(170, 168, 168);
+  letter-spacing: 1px;
+}
+
+.column-header {
+  display: flex;
+  align-items: center;
+}
+
+.task-color {
+  background-color: #34a300;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  margin: 12px 12px 14px 0;
+}
