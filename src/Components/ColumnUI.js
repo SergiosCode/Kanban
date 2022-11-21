@@ -13,7 +13,6 @@ const ColumnUI = () => {
       <TaskUI />
       <TaskUI />
       <TaskUI />
-      <TaskUI />
     </div>
   );
 };
