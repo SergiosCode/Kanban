@@ -1,0 +1,19 @@
+.form-subtasks-input {
+  height: 35px;
+  width: 88%;
+  border-radius: 5px;
+  border: none;
+  padding: 0 10px 0 10px;
+  background-color: #2b2c37;
+  border: 1px solid rgba(114, 113, 113, 0.4);
+  color: white;
+  margin: 0 10px 10px 0;
+}
+
+.form-subtasks-input:focus {
+  outline: none;
+}
+
+.cross {
+  cursor: pointer;
+}
